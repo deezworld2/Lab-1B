@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mystery</string>
+    <string name="action_settings">Settings</string>
+    <string name="press_the_button_to_get_help">Press the button to get help ...</string>
+</resources>
